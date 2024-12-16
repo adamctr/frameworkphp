@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    box-sizing: border-box;
+    --borderColor: #f5f5f550;
+    --thirdColor: #f5f5f550;
+
+}
+html {
+
+}
+
+.icon, svg {
+    color: black;
+}
+
+body {
+    padding:0;
+    margin:0;
+    background-color:var(--secondary);
+    color:var(--primary);
+}

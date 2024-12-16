@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5e018e5b-ac38-4831-86d8-d94fb2dcbe00" name="framework">
+        <fileTransfer rootFolder="/home/kurada/www" accessType="SFTP" host="ssh-kurada.alwaysdata.net" port="22" sshConfigId="3e491397-83f4-4586-a684-66d597eb090d" sshConfig="kurada_php@ssh-kurada.alwaysdata.net:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" isUseRsync="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
